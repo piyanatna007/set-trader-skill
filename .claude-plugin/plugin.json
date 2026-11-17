@@ -1,0 +1,8 @@
+{
+  "name": "set-trader-skill",
+  "description": "5 Claude skills for day trading Thai stocks on the SET: scanner, entry timer, exit planner, a time machine that replays 10,000 sessions, and a budget and risk manager. Bangkok hours, SET holidays, tick sizes and board lots. Never places an order.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "day-trading", "thailand", "set", "opening-range-breakout"],
+  "skills": "./"
+}

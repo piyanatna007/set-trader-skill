@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "set-trader-skill",
+  "description": "Day-trading skills for Thai stocks (SET), adapted from day-trader-skill",
+  "owner": {"name": "set-trader-skill contributors"},
+  "plugins": [
+    {
+      "name": "set-trader-skill",
+      "description": "Scanner, entry timer, exit planner, time machine and budget/risk manager for SET stocks. Never places an order.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
